@@ -6,7 +6,7 @@ Output dari program adalah Laporan Perhitungan yang berformat (.docx).
 - Python 3.6 atau lebih tinggi (dikembangkan dan dites pada v3.11)
 - Pip
 
-- ## Installasi Manual
+## Installasi Manual
 1. Clone repository atau download zip.
 2. Install library yang dibutuhkan dengan command `pip install -r requirements.txt`.
 3. Jalankan `Program_selecter.py`.
